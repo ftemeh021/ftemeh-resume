@@ -2,98 +2,57 @@
 
 ### About Me
 
-I am Amiireza Bahoush, Im  a Frontend Developer and i love my job.
+I am Fatemeh moradi.
 I am studying computer engineering at PNU University.
-I want learning new things every day.
 
 ### Personal Information
 
-- First Name: Amirreza
-- Last Name: Bahoush Mehdi Abadi
-- Birth Date: 1997/01/07
-- Job Status: Full-time
+- First Name: Fatemeh
+- Last Name: moradi
+- Birth Date: 1999/12/25
 - Marriage Status: Single
 
 ### Skills
 
 + Javascript
 
-+ HTML5
++ ICDL1
 
-+ Styling( CSS3 - Sass - Less - BEM - Styled Components)
++ ICDL2
 
-+ UI Libraries( Bootstrap - Material UI - Antd)
++ PHOTOSHOP
 
-+ React js
++ C++
 
-+ React Hooks
++ C+
 
-+ React Context
-
-+ Redux 
-
-+ ES6
-
-+ JQuery
-
-+ Websocket
-
-+ Axios
-
-+ Webpack
-
-+ Gulp js
-
-+ Docker
-
-+ Ubuntu
-
-+ Unit Testing (Jestjs - Enzyme)
-
-+ UX Design
-
-+ Git
++ C
 
 ### Languages
 
 - Persian(Advanced)
 
-- English(Intermediate)
+- English(Normal)
 
 ### Licenses & Certifications
-- Introduction to Programming Using HTML and CSS (Tehran Institute of Technology)
 
-- Introduction to Programming Using JavaScript (Tehran Institute of Technology)
-
-- bootstrap4 & LESS & SCSS (Tehran Institute of Technology)
-
-- Wordpress (Tehran Institute of Technology)
-
-- React & React Native (Faratar Az Danesh)
-
-- UX Design (Amanj Academy)
-
-- Javascript Toturial Course (Solo Learn)
+- PHOTOSHOP(Tehran Technical and Vocational School)
+- ICDL1(Tehran Technical and Vocational School)
+- ICDL2(Tehran Technical and Vocational School)
+- KNITTINH DOLLS(karaj Technical and Vocational School)
+- Quran reading(karaj Technical and Vocational School)
+- Pottery
 
 ### Working Experience
 
-- 1 year work at Khatam high school as Math Teacher
-
-- 9 months at Sooran Argham Fanavar Pardis as Frontend Developer
-
-- 11 months at Future Wave Ultratech as Frontend Developer ( and currently work at here)
+- 1 year work at Imam Khomeini Relief Committee Karaj
 
 ### Projects
-- http://www.htdf.ir/ project in sooran argham fanavar pardis
-- https://amenu.ir/  project in cotint group
-- https://viruspod.ir/ project in future wave ultratech
-
-### Titles and Honors
   nothing
 
 ### Other Accounts
-  Quera: <a href="https://quera.ir/profile/amir_bhsh"> https://quera.ir/profile/amir_bhsh </a>
+
+- Instagram: --.ftm.m.021.--
+- Instagram: fatima-baft-m
   
-  Linkedin: <a href="https://www.linkedin.com/in/amirreza-bahoush-b09078152/"> https://www.linkedin.com/in/amirreza-bahoush-b09078152/ </a>
-  
-  Persian Resume: <a href="https://ftemeh021.github.io/resume_fa.github.io/"> Resume </a>
+  Persian Resume: <a href="https://ftemeh021.github.io/algorithm-fa.github.io/"> Resume </a>
