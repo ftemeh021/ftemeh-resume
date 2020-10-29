@@ -39,6 +39,7 @@ I am studying computer engineering at PNU University.
 - PHOTOSHOP(Tehran Technical and Vocational School)
 - ICDL1(Tehran Technical and Vocational School)
 - ICDL2(Tehran Technical and Vocational School)
+- Black Taekwondo Belt(Taekwondo Federation)
 - KNITTINH DOLLS(karaj Technical and Vocational School)
 - Quran reading(karaj Technical and Vocational School)
 - Pottery
