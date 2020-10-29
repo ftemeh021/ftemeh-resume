@@ -52,7 +52,7 @@ I am studying computer engineering at PNU University.
 
 ### Other Accounts
 
-- Instagram: --.ftm.m.021.--
+- Instagram: __.ftm.m.021.__
 - Instagram: fatima-baft-m
   
   Persian Resume: <a href="https://ftemeh021.github.io/algorithm-fa.github.io/"> Resume </a>
@@ -121,7 +121,7 @@ I am studying computer engineering at PNU University.
 
 <h1> سایر حساب هاے ڪاربرے </h1>
 <ul>
-  <li> Instagram: --.ftm.m.021.--</li>
+  <li> Instagram: __.ftm.m.021.__</li>
   <li> Instagram: fatima-baft-m</li>
 </ul>
 
