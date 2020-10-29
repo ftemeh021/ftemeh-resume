@@ -48,8 +48,10 @@ I am studying computer engineering at PNU University.
 
 - 1 year work at Imam Khomeini Relief Committee Karaj
 
-### Projects
-  nothing
+### Titles and honors
+
+- Has a gold medal in Taekwondo competitions
+- Has a gold medal in athletics
 
 ### Other Accounts
 
