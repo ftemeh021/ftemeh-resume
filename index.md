@@ -54,4 +54,4 @@ I am studying computer engineering at PNU University.
 
 - Instagram:- -.ftm.m.021.- -
 - Instagram: fatima-baft-m
-- Persian Resume: <a href="https://ftemeh021.github.io/algorithm-fa.github.io/"> Resume </a>
+- Persian Resume: <a href="https://ftemeh021.github.io/resume_fa.github.io/"> Resume </a>
