@@ -55,6 +55,5 @@ I am studying computer engineering at PNU University.
 
 ### Other Accounts
 
-- Instagram:- -.ftm.m.021.- -
-- Instagram: fatima-baft-m
+- Quera: <a href="https://quera.ir/profile/fatima31"> https://quera.ir/profile/fatima31 </a>
 - Persian Resume: <a href="https://ftemeh021.github.io/resume_fa.github.io/"> Resume </a>
