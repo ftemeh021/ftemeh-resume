@@ -24,9 +24,11 @@ I am studying computer engineering at PNU University.
 
 + C++
 
-+ C+
-
 + C
+
++ Doll Making
+
++ Speaker
 
 ### Languages
 
