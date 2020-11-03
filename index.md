@@ -60,4 +60,6 @@ I am studying computer engineering at PNU University.
 - Quera: <a href="https://quera.ir/profile/fatima31"> https://quera.ir/profile/fatima31 </a>
 
 - instagram: <a href="https://instagram.com/__.ftm.m.021.__?igshid=1nvmpqsozc1a">https://instagram.com/__.ftm.m.021.__?igshid=1nvmpqsozc1a</a>
+- instagram: <a href="https://instagram.com/fatima_baft_m?igshid=843xjbt2wstc">https://instagram.com/fatima_baft_m?igshid=843xjbt2wstc</a>
+
 - Persian Resume: <a href="https://ftemeh021.github.io/resume-fa.github.io/"> Resume </a>
