@@ -28,8 +28,6 @@ I am studying computer engineering at PNU University.
 
 + Doll Making
 
-+ Speaker
-
 ### Languages
 
 - Persian(Advanced)
